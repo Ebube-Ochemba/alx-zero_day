@@ -5,13 +5,13 @@ I learnt the basics of Source code management in this project.
 ## The Things I learnt
 
 - Source Code Management
-> An overview of source code management
+> An overview of source code management.
 - Git and GitHub
 > How to create and setup a Git and GitHub account.
 - Repository Basics
 > How to create a Personal Access Token on Github,
-> How to create a clone repositories and 
-> What is a README and how to write one
+> How to create a clone repositories,
+> What is a README and how to write one.
 - README Guidelines
 > Tips for writing good README's.
 - Version Control
